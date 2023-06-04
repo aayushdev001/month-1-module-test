@@ -1,0 +1,9 @@
+#navbar{
+    padding-left: 10px;
+}
+.gallery > img{
+    width: 100%;
+}
+.col-3 > ul{
+    list-style: none;
+}
